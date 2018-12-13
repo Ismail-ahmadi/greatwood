@@ -2,8 +2,8 @@ backend:
   name: 'git-gateway'
   branch: 'master'
 
-display_url: 'https://miloandfinn.netlify.com'
-logo_url: 'https://miloandfinn.netlify.com/assets/favicons/android-chrome-384x384.png'
+display_url: 'https://urbanwinner.netlify.com'
+logo_url: 'https://urbanwinner.netlify.com/assets/favicons/cms-logo.png'
 media_library:
   name: 'uploadcare'
   config:
