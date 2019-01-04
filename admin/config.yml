@@ -2,12 +2,12 @@ backend:
   name: 'git-gateway'
   branch: 'master'
 
-display_url: 'https://urbanwinner.netlify.com'
-logo_url: 'https://urbanwinner.netlify.com/assets/favicons/cms-logo.png'
+display_url: 'https://yicf.netlify.com'
+logo_url: 'https://yicf.netlify.com/assets/favicons/cms-logo.png'
 media_library:
   name: 'uploadcare'
   config:
-    publicKey: '9f0b2b6f1d82d63f1332'
+    publicKey: '584ec1be8801dc9df74e'
     imagesOnly: true
     tabs: 'file gphotos url'
 
