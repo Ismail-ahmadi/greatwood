@@ -1,11 +1,11 @@
 {
   "site": {
-    "name": "Urban Winner",
-    "url": "https://urbanwinner.netlify.com",
+    "name": "Yayasan Internasional Cahaya Fajar | Light of Dawn International",
+    "url": "https://yicf.netlify.com/",
     "lang": "en",
-    "summary": "A sample website created using Eleventy & Netlify CMS",
-    "description": "This is a paragraph containing a more detailed description of the summary line above. Should not exceed more than 160 characters.",
-    "webmaster": "admin@email.com",
+    "summary": "Empowering refugees & the urban poor",
+    "description": "Light of Dawn International is a social (non-profit) foundation registered in Jakarta, Indonesia. We are recognized by the Indonesian Ministry of Social Affairs and the Ministry of Justice and Human Rights. Our registered name is: Yayasan Internasional Cahaya Fajar (YICF).",
+    "webmaster": "yicf.webteam@gmail.com",
     "themeColor": "#fb1",
     "image": "https://ucarecdn.com/bda06761-6071-4dff-b49e-b9d705cfb3d6/"
   },
