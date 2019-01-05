@@ -7,6 +7,7 @@ imagehome: 'https://ucarecdn.com/9bda7412-ed94-4f7c-8f1b-68b2c737fa16/'
 image1: 'https://ucarecdn.com/7df368aa-069e-4182-8cc4-ccf6a204f515/'
 image2: 'https://ucarecdn.com/1ed4de40-e95e-4779-a044-320d8ccdf43c/'
 image3: 'https://ucarecdn.com/c0c5c0b0-1664-4163-a3ae-995fff25aec1/'
+logo: 'https://ucarecdn.com/e75f77e7-9455-4410-995a-35a7aa953a49/'
 ---
 ## The world's FIRST ever engineered wooden flooring with -IONS for a healthier indoor air
 
