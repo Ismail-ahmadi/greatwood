@@ -27,6 +27,18 @@ collections:
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Home'
+        name: 'about'
+        file: 'pages/home.md'
+        fields:
+          - { label: 'Headertitle', name: 'headertitle', widget: 'string' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/' }
+          - { label: 'Image', name: 'image', widget: 'image', }
+          - { label: 'Imagehome', name: 'imagehome', widget: 'image' }
+          - { label: 'Image1', name: 'image1', widget: 'image' }
+          - { label: 'Image2', name: 'image2', widget: 'image' }
+          - { label: 'Image3', name: 'image3', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }    
       - label: 'Tentang Kami'
         name: 'tentang'
         file: 'pages/id/tentang.md'
