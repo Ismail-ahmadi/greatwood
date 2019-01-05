@@ -4,7 +4,7 @@ permalink: /
 image: >-
   https://i.upworthy.com/nugget/5b295d4b7134350017167c84/attachments/Roshan7-e69a04f32da893582d238f9b3244b51f.png
 imagehome: >-
-  https://static1.squarespace.com/static/586b2fa83e00bec12e716bc7/t/5c1084ecc2241b7d0c865a45/1544586480057/roshan+home+page.jpg?format=1500w
+  https://ucarecdn.com/e98b8a11-3f4f-4203-afcf-1000e5dd9bc1/-/crop/1500x725/0,45/-/preview/
 image1: >-
   https://static1.squarespace.com/static/586b2fa83e00bec12e716bc7/t/5879e585b8a79b66d3f630e0/1484383622731/learning.gif?format=300w
 image2: 'https://ucarecdn.com/7558a666-0cf0-4685-964b-574d67bb1132/'
