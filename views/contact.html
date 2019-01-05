@@ -1,5 +1,8 @@
 {% layout 'includes/layout.html' %}
-        <h4>Contact</h4>
+    {% block content %}
+        {{ content }}
+
+         <h4>Contact</h4>
           <p>Please feel free to Contact us </p>
           <form class="form">
           <label>Name:</label>
@@ -10,3 +13,4 @@
           <textarea name="message" required placeholder="Enter your message" ></textarea>
           <button type="submit" name="submit">Submit</button>
           </form>
+    {% endblock %}
