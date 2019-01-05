@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About 
 slug: about
 tags: nav
 summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
