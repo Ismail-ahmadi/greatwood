@@ -28,7 +28,7 @@ collections:
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Home'
-        name: 'about'
+        name: 'home'
         file: 'pages/home.md'
         fields:
           - { label: 'Headertitle', name: 'headertitle', widget: 'string' }
