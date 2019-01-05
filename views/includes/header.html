@@ -1,7 +1,11 @@
-<header class="container header">
-  <a href="{{ locale.url }}" class="logo">{% Icon 'logo' %}</a>
-  {% include 'components/locale.html' %}
-  <nav class="menu" role="navigation">
-    {% include 'components/menu-items.html' %}
-  </nav>
+<header class="container header" style="background-image: url('{{ image }}')"  >
+  <section class="black">  
+    <a href="{{ locale.url }}" class="logo"><img src="https://static1.squarespace.com/static/5b3d9fa0b1059889dc6893a6/t/5bd86e198165f5cc3cee63c9/1542615735792/?format=1500w"/></a>
+    {% comment %} {% include 'components/locale.html' %} {% endcomment %}
+    <nav class="menu" role="navigation">
+      {% include 'components/menu-items.html' %}
+    </nav>
+    
+  </section>
+  <h3 class="header__title"> {{ headertitle }}</h3>
 </header>

@@ -1,5 +1,20 @@
-<footer class="footer container">
-  <span class="faint">
-    Copyright  ©  {{ 'now' | date: '%Y' }}
+<footer class="container footer">
+  <div class="footer__content">
+      <div class="contact">
+        <div class="contact__title">
+          <h4>Contact</h4>
+          <p>Would you like to learn more about our work or how to get involved? Connect us using the contact form below. We look forward to hearing from you!</p>
+        </div>  
+      </div>
+      <div class="social">
+        <p>Find us on: facebook Youtube tweeter</p>
+        {% comment %} <img src="{{ site.logo }}" /> {% endcomment %}
+        <p>Light of Dawn International is a social (non-profit) foundation registered in Jakarta, Indonesia. We are recognized by the Indonesian Ministry of Social Affairs and the Ministry of Justice and Human Rights. Our registered name is: Yayasan Internasional Cahaya Fajar (YICF).</p>
+      </div>
+  </div>
+  <div class="footer__bottom">
+    <span class="faint">
+    <p>©  {{ 'now' | date: '%Y' }} Yayasan Internasional Cahaya Fajar | Light of Dawn International </p>
   </span>
+  </div>
 </footer>
