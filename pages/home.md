@@ -1,5 +1,5 @@
 ---
-headertitle: Building Better Lives & <br> Brighter Futures
+headertitle: Indonesian engineered <br> wood floor for creative living
 permalink: /
 layout: home
 image: 'https://ucarecdn.com/36e28b14-1300-4842-aa69-653fb51a6bd6/'
