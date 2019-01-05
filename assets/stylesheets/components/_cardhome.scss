@@ -12,11 +12,19 @@
     background-color: #71a9ad;
     color: white;
     text-align: center;
-    //padding: $s;
     margin: $s 0 0 0;
 
-    h2,
+    h2 {
+        color: white;
+        padding-top: $s;
+    }
+
     h4 {
         color: white;
+
+    }
+
+    p {
+        padding: $s;
     }
 }
