@@ -2,12 +2,12 @@ backend:
   name: 'git-gateway'
   branch: 'master'
 
-display_url: 'https://yicf.netlify.com'
-logo_url: 'https://yicf.netlify.com/assets/favicons/cms-logo.png'
+display_url: 'https://greatwood.netlify.com'
+logo_url: 'https://greatwood.netlify.com/assets/favicons/cms-logo.png'
 media_library:
   name: 'uploadcare'
   config:
-    publicKey: '584ec1be8801dc9df74e'
+    publicKey: 'dc45e2edd3500fecbc5a'
     imagesOnly: true
     tabs: 'file gphotos url'
 
