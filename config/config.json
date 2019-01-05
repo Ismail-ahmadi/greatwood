@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Yayasan Internasional Cahaya Fajar | Light of Dawn International",
-    "url": "https://yicf.netlify.com/",
+    "name": "Great Wood Flooring ",
+    "url": "https://greatwood.netlify.com/",
     "lang": "en",
     "summary": "Empowering refugees & the urban poor",
     "description": "Light of Dawn International is a social (non-profit) foundation registered in Jakarta, Indonesia. We are recognized by the Indonesian Ministry of Social Affairs and the Ministry of Justice and Human Rights. Our registered name is: Yayasan Internasional Cahaya Fajar (YICF).",
-    "webmaster": "yicf.webteam@gmail.com",
-    "themeColor": "#fb1",
-    "image": "https://ucarecdn.com/bda06761-6071-4dff-b49e-b9d705cfb3d6/"
+    "webmaster": "gw.teamweb@gmail.com",
+    "themeColor": "#f0aa27",
+    "image": "https://ucarecdn.com/e8134816-0d00-4a7b-ae52-6fa8baed0daa/"
   },
   "locales": {
     "en": {
@@ -20,8 +20,8 @@
     }
   },
   "social": {
-    "facebook": "https://facebook.com/urbanwinner",
-    "twitter": "https://twitter.com/urbanwinner",
+    "facebook": "https://facebook.com/greatwood",
+    "twitter": "https://twitter.com/greatwood",
     "instagram": "https://instagram.com/urbanwinner"
   },
   "analytics": {
