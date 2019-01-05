@@ -1,8 +1,7 @@
 ---
 headertitle: Building Better Lives & <br> Brighter Futures
 permalink: /
-image: >-
-  https://i.upworthy.com/nugget/5b295d4b7134350017167c84/attachments/Roshan7-e69a04f32da893582d238f9b3244b51f.png
+image: 'https://ucarecdn.com/a1579fd2-58b1-4a9f-a56a-a91441fb0598/'
 imagehome: >-
   https://ucarecdn.com/e98b8a11-3f4f-4203-afcf-1000e5dd9bc1/-/crop/1500x725/0,45/-/preview/
 image1: >-
