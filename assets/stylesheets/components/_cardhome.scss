@@ -5,4 +5,7 @@
     grid-gap: $s*1.5;
     grid-template-columns: repeat(auto-fit, minmax($s*16, 1fr));
     margin-bottom: $s;
+    font-size: 0.7rem;
+
+
 }
