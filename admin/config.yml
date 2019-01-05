@@ -33,6 +33,7 @@ collections:
         fields:
           - { label: 'Headertitle', name: 'headertitle', widget: 'string' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
           - { label: 'Image', name: 'image', widget: 'image', }
           - { label: 'Imagehome', name: 'imagehome', widget: 'image' }
           - { label: 'Image1', name: 'image1', widget: 'image' }
