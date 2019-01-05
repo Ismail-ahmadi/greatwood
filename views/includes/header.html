@@ -1,6 +1,6 @@
 <header class="container header" style="background-image: url('{{ image }}')"  >
   <section class="black">  
-    <a href="{{ locale.url }}" class="logo"><img src="{{ logo }}"/></a>
+    <a href="{{ locale.url }}" class="logo"><img src="{{ config.site.logo }}"/></a>
     {% comment %} {% include 'components/locale.html' %} {% endcomment %}
     <nav class="menu" role="navigation">
       {% include 'components/menu-items.html' %}

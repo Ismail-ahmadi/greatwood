@@ -11,14 +11,14 @@ logo: 'https://ucarecdn.com/e75f77e7-9455-4410-995a-35a7aa953a49/'
 ---
 ## The world's FIRST ever engineered wooden flooring with -IONS for a healthier indoor air
 
-IONWOOD is the world's first ever engineered wooden flooring that is able to emit -ions into the surroundings. Founded by Mr Gavin Teh, PT Sugawa Indonesia was launched in the year 2014 becoming the sole distributor of IONWOOD.
+Great Wood is the world's first ever engineered wooden flooring that is able to emit -ions into the surroundings. Founded by Mr Gavin Teh, PT Sugawa Indonesia was launched in the year 2014 becoming the sole distributor of Great Wood.
 
-IONWOOD was established year 2013 in Malaysia and has now successfully branched out internationally to countries such as Abu Dhabi, China, Hongkong, Singapore and several others.
+Great Wood was established year 2013 in Malaysia and has now successfully branched out internationally to countries such as Abu Dhabi, China, Hongkong, Singapore and several others.
 
 ## Good day!
 
 What makes a good life truly remarkable is the ability to sustain the things that give us pleasure. And for that to happen, a healthy environment in your home is essential.
 
-With IONWOOD flooring, we focus on creating that special spacewithin your home – a place that is free of viruses, bacteria and other unhealthy air pollutants, so that you and your family can love, live and play worry-free, in the place where you spend most of your time in.
+With Great Wood flooring, we focus on creating that special spacewithin your home – a place that is free of viruses, bacteria and other unhealthy air pollutants, so that you and your family can love, live and play worry-free, in the place where you spend most of your time in.
 
-Therefore, you and your family deserve to own an IONWOOD flooring as we bring you the air of nature to your home.
+Therefore, you and your family deserve to own an Great Wood flooring as we bring you the air of nature to your home.
