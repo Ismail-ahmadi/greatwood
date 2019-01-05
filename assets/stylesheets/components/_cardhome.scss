@@ -4,27 +4,5 @@
     display: grid;
     grid-gap: $s*1.5;
     grid-template-columns: repeat(auto-fit, minmax($s*16, 1fr));
-}
-
-.donatehome {
-    width: 100%;
-    height: auto;
-    background-color: #71a9ad;
-    color: white;
-    text-align: center;
-    margin: $s 0 0 0;
-
-    h2 {
-        color: white;
-        padding-top: $s;
-    }
-
-    h4 {
-        color: white;
-
-    }
-
-    p {
-        padding: $s;
-    }
+    margin-bottom: $s;
 }
