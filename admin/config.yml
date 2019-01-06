@@ -25,6 +25,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Image', name: 'image', widget: 'image', }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Home'
@@ -47,6 +48,7 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'tentang-kami' }
+          - { label: 'Image', name: 'image', widget: 'image', }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'navId' }
           - { label: 'Lang', name: 'lang', widget: 'hidden', default: 'id' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
@@ -57,6 +59,7 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'faq' }
+          - { label: 'Image', name: 'image', widget: 'image', }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - label: 'Questions'
             name: 'questions'
@@ -76,6 +79,7 @@ collections:
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'date'}
+      - { label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Location', name: 'location', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Image', name: 'image', widget: 'image', required: false}
@@ -99,6 +103,7 @@ collections:
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'date'}
+      - { label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Location', name: 'location', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Image', name: 'image', widget: 'image', required: false}
