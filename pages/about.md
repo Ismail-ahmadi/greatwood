@@ -1,8 +1,9 @@
 ---
-title: About 
+title: About
 slug: about
 tags: nav
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+image: 'https://ucarecdn.com/68a2fe5e-9aa5-49b1-ae5b-36940ac6d49b/'
+summary: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 ---
 ## About Us
 
