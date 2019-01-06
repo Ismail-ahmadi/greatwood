@@ -3,6 +3,7 @@ title: About
 slug: about
 tags: nav
 image: 'https://ucarecdn.com/68a2fe5e-9aa5-49b1-ae5b-36940ac6d49b/'
+headertitle: Indonesian engineered  wood floor for creative living
 summary: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 ---
 ## About Us
